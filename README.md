@@ -6,7 +6,11 @@ Bachelor of Science In Information Systems.
 
 
 
-
+![Login](https://user-images.githubusercontent.com/98904606/191979593-328ac0ca-b66f-4bca-95d8-284cccb26c1a.PNG)
+![Sign up Alert](https://user-images.githubusercontent.com/98904606/191979609-2e18eef4-11f9-4e25-84cd-18f08d5dc351.PNG)
+![Feeds 1](https://user-images.githubusercontent.com/98904606/191979645-84b1740b-fb58-4d28-9728-6d129cb8ccf9.PNG)
+![Feeds 2](https://user-images.githubusercontent.com/98904606/191979662-fd31684a-e4b0-4468-a5e3-67701c25ac78.PNG)
+![Account](https://user-images.githubusercontent.com/98904606/191979675-424c7618-06fa-472a-a578-f3f061ce2510.PNG)
 
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
